@@ -1,0 +1,15 @@
+{
+  "name": "base32-h3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT",
+  "dependencies": {
+    "base32.js": "^0.1.0"
+  }
+}
